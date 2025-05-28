@@ -9,3 +9,6 @@ Topics:
 - [ ] Swift
 
 ## Day 1
+Swift online course - Swift 5 Essential Training (Linkedin) modules 1-5
+
+## Day 2
