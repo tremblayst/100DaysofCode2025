@@ -13,5 +13,8 @@ Swift online course - Swift 5 Essential Training (Linkedin) modules 1-5
 
 ## Day 2
 Swift online course - Swift 5 Essential Training (Linkedin) modules 6,7
+Swift online course - Swift 6
 
 ## Day 3
+Swift online course - Practical Design Patterns in Swift
+Thread Safe Singleton Pattern
